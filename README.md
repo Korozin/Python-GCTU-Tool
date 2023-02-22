@@ -1,2 +1,3 @@
 # Python-GCTU-Tool
-Just a simple tool to mess with JGecko GCTU files
+
+I wanted to test byte / hex formatting a bit more, so this is a testing script that makes / reads JGecko GCTU files
